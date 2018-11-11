@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiserPiggy", "MiserPiggy\Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{477E93CD-19D1-4A42-8C37-24FE18FAEB20}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week6", "week6", "{A2B2B6B8-649E-4980-BE9B-A8865F9AC59A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsNames", "StudentsNames\StudentsNames.csproj", "{1BCBBF19-B690-4C66-AC99-B97EC607719A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{477E93CD-19D1-4A42-8C37-24FE18FAEB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{477E93CD-19D1-4A42-8C37-24FE18FAEB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{477E93CD-19D1-4A42-8C37-24FE18FAEB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCBBF19-B690-4C66-AC99-B97EC607719A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCBBF19-B690-4C66-AC99-B97EC607719A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCBBF19-B690-4C66-AC99-B97EC607719A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCBBF19-B690-4C66-AC99-B97EC607719A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,7 @@ Global
 		{971619DF-72C0-4A50-99BB-73038CB15CB5} = {20F3F34C-AE20-4A38-833A-B9FE45F6B5E4}
 		{8E9061DC-1E90-4EE5-97CF-86B6F72D3367} = {20F3F34C-AE20-4A38-833A-B9FE45F6B5E4}
 		{477E93CD-19D1-4A42-8C37-24FE18FAEB20} = {20F3F34C-AE20-4A38-833A-B9FE45F6B5E4}
+		{1BCBBF19-B690-4C66-AC99-B97EC607719A} = {A2B2B6B8-649E-4980-BE9B-A8865F9AC59A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {59DA2331-3784-4518-9866-FAB7080F5E05}
